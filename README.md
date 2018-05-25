@@ -1,10 +1,10 @@
-# MarkLite Editor
+# MGMarkLite
 <div align="center">
 <img width=300 src="https://raw.githubusercontent.com/LinHelen136/MarkLite-Editor/master/img/logo.jpg">
 
 <br> <br>
 
-<h1> MarkLite Editor </h1>
+<h1> MGMarkLite </h1>
 <h3> </h3></div>
 
 <br>
@@ -16,10 +16,10 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/LinHelen136/MarkLite-Editor/master/img/pad1.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/LinHelen136/MarkLite-Editor/master/img/pad2.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/LinHelen136/MarkLite-Editor/master/img/pad3.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/LinHelen136/MarkLite-Editor/master/img/pad4.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LimDavid168/MGMarkLiteEditor/master/img/pad/0.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LimDavid168/MGMarkLiteEditor/master/img/pad/1.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LimDavid168/MGMarkLiteEditor/master/img/pad/2.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LimDavid168/MGMarkLiteEditor/master/img/pad/3.png"> </td>
 </tr>
 
 <tr>
@@ -34,11 +34,10 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/LinHelen136/MarkLite-Editor/master/img/phone1.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/LinHelen136/MarkLite-Editor/master/img/phone2.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/LinHelen136/MarkLite-Editor/master/img/phone3.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/LinHelen136/MarkLite-Editor/master/img/phone4.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/LinHelen136/MarkLite-Editor/master/img/phone5.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LimDavid168/MGMarkLiteEditor/master/img/IPHONE/0.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LimDavid168/MGMarkLiteEditor/master/img/IPHONE/1.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LimDavid168/MGMarkLiteEditor/master/img/IPHONE/2.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LimDavid168/MGMarkLiteEditor/master/img/IPHONE/3.png"> </td>
 </tr>
 
 <tr>
@@ -51,7 +50,7 @@
 ### Description
 
 <br>
-The MarkLite Editor is a minimalist style markdown editor with a clean interface, smooth running, no extra elements, and just retains an editor as it should.
+The MGMarkLite  is a minimalist style markdown editor with a clean interface, smooth running, no extra elements, and just retains an editor as it should.
 <br>
 During the editing process, thanks to helper assists, you don't have to worry about various symbols to make you switch back and forth. One-key import of pictures, eliminating the hassle of uploading pictures and pasting links. If you are a minimalist like me, you will not want to miss it.
 <br>
@@ -80,12 +79,12 @@ Features
 <br>
 
 ### User Information
-cwmtji@yeah.net
+tjvwiv@163.com
 <br>
-tell: +60133650954
+tell: +60133886507
 
 
 
 ## Author
 
-[@LinHelen]
+[@LimDavid]
