@@ -1,6 +1,6 @@
 # MGMarkLite
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/LinHelen136/MarkLite-Editor/master/img/logo.jpg">
+<img width=300 src="https://raw.githubusercontent.com/LimDavid168/MGMarkLiteEditor/master/img/LOGO.jpg">
 
 <br> <br>
 
